@@ -1,1 +1,1 @@
-CodeAlpha_Ecommerce-Store
+ecommerce_store
